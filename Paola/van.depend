@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1731658999 source:c:\users\pc_user\documents\niveau5\van\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1732003615 source:c:\users\pc_user\documents\niveau5\systeme d'exploitation\van\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
